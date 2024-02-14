@@ -1,12 +1,14 @@
 html {
 	font-size: 16px;
 	background-color: #FFFFFF;
+	font-family: 'Open Sans', sans-serif;
 }
 
 
 h1 {
 	font-size: 40px;
 	text-align: left;
+	margin-top: 110px;
 }
 
 
@@ -25,20 +27,58 @@ p {
 }
 
 #personal-image {
-	width: 250px;
-	height: 280px;
+	width: 290px;
+	height: 330px;
 	float: right;
-	clear: both;
+	clear: right;
 	border-radius: 10px;
+	margin-left: 100px;
+	background-position: no-repeat;
+	background-position: top right;
+	top: 0;
+	right: 0;
 }
 
 #earth-image {
 	width: 30px;
 	height: 30px;
-	clear: both;
+	float: left;
+	margin-right: 20px;
 
 }
 
-#localizacion-parrafo {
-	float: right;
+#linkedin-account {
+	width: 40px;
+	height: 40px;
+	margin-right: 20px
+}
+
+#github-image {
+	width: 40px;
+	height: 40px;
+	margin-right: 20px;
+}
+
+#gmail-image {
+	width: 40px;
+	height: 40px;
+	margin-right: 20px;
+}
+
+#outlook-image {
+	width: 40px;
+	height: 40px;
+	margin-right: 20px;
+}
+
+#x-image {
+	width: 40px;
+	height: 40px;
+	margin-right: 20px;
+}
+
+#instagram-image {
+	width: 40px;
+	height: 40px;
+	margin-right: 20px;
 }
