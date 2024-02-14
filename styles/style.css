@@ -1,0 +1,44 @@
+html {
+	font-size: 16px;
+	background-color: #FFFFFF;
+}
+
+
+h1 {
+	font-size: 40px;
+	text-align: left;
+}
+
+
+body {
+	width: 800px;
+	margin: 0 auto;
+	background-color: #FFFFFF;
+	padding: 0 20px 20px 20px;
+}
+
+
+p {
+	font-size: 16px;
+	line-height: 2;
+	letter-spacing: 1px;
+}
+
+#personal-image {
+	width: 250px;
+	height: 280px;
+	float: right;
+	clear: both;
+	border-radius: 10px;
+}
+
+#earth-image {
+	width: 30px;
+	height: 30px;
+	clear: both;
+
+}
+
+#localizacion-parrafo {
+	float: right;
+}
